@@ -40,3 +40,17 @@ AF3005-Programming-for-Finance/
 │── .gitignore # Ignoring unnecessary files
 │── LICENSE # Open-source license for sharing code
 
+
+---
+
+### 📊 Copyrights@
+
+**Feel free to use the content in your classroom, but kindly do not remove the author information and university details.**  
+
+If you find the content useful, credits can also be given on LinkedIn:  
+🔗 [Dr. Usama Arshad on LinkedIn](https://www.linkedin.com/in/usamajanjua9/)  
+
+**Instructor:**  
+👨‍🏫 **Dr. Usama Arshad** (Assistant Professor, FSM)  
+
+---
